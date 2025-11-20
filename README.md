@@ -57,7 +57,7 @@ This dataset shows how ice cream sales may change depending on temperature.
 - **Standard deviation (Sales):** 16.33  
 - **Correlation coefficient (r):** +1.0  
 
-### ✔ Interpretation  
+### Interpretation  
 There is a **very strong positive linear relationship** between temperature and ice cream sales.  
 As temperature increases, sales increase almost perfectly.  
 Both the numerical results and the graph confirm this.
@@ -99,5 +99,6 @@ The link to this repo has been submitted via Canvas.
 ## Status
 
 **Completed & Submitted.**  
+
 
 
