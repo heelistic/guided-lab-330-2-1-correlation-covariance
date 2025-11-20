@@ -392,20 +392,20 @@ A scatter plot comparing temperature vs. sales
 A linear trend line through the scatter plot
 
 What the visualization proves:
-✔ Both variables move together
+Both variables move together
 
 Above-average temperatures always correspond with above-average sales.
 Below-average temperatures correspond with below-average sales.
 
-✔ Trend line slopes upward
+Trend line slopes upward
 
 This confirms the strong positive relationship.
 
-✔ Data points line up almost perfectly
+Data points line up almost perfectly
 
 This matches the correlation of +1.
 
-✔ Visualization supports the math
+Visualization supports the math
 
 The graphs visually validate the numerical result.
 
